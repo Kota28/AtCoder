@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "cmath": "cpp"
+    }
+    "C_Cpp.default.includePath": [
+        "C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MSYS2 64bit\\MSYS2 MinGW 64-bit.lnk\\include",
+        "C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MSYS2 64bit\\MSYS2 MinGW 64-bit.lnk\\include\\c++",
+        "C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MSYS2 64bit\\MSYS2 MinGW 64-bit.lnk\\include\\c++\\mingw32"
+    ],
+    "C_Cpp.default.compilerPath": "[MINGW]\\bin\\g++.exe",
+    "C_Cpp.default.cppStandard": "c++14",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+}
